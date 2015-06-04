@@ -1,0 +1,20 @@
+{
+  "name": "backbone",
+  "version": "0.0.0",
+  "authors": [
+    "Refik ONAL <refikonal@gmail.com>"
+  ],
+  "description": "backbone experiments",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "backbone": "~1.2.0"
+  }
+}
